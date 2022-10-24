@@ -1,4 +1,4 @@
-
+package ConnectFour;
 /*This class keeps the status of the board*/
 
 public class Board {
